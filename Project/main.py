@@ -15,4 +15,4 @@ def register():
 
 if __name__ == '__main__':
     print("Vibhas")
-    app.run(debug=True)
+    app.run(debug=True,port=1234)
